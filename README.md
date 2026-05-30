@@ -50,6 +50,7 @@ Aşağıdaki doğruluk oranları modelin farklı mahsuller üzerindeki performan
 
 Sistemin sürdürülebilirliği ve modülerliği için aşağıdaki dizin yapısı benimsenmiştir:
 
+```bash
 ATA-Projesi/
 ├── data/
 │   └── raw/                   # Eğitim fotoğraflarının (12 mahsul sınıfı) bulunduğu ana dizin
