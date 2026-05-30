@@ -46,7 +46,7 @@ Aşağıdaki doğruluk oranları modelin farklı mahsuller üzerindeki performan
 
 
 
-Proje Mimarisi ve Klasör Yapısı
+## Proje Mimarisi ve Klasör Yapısı
 
 Sistemin sürdürülebilirliği ve modülerliği için aşağıdaki dizin yapısı benimsenmiştir:
 
@@ -59,7 +59,6 @@ ATA-Projesi/
 ├── test_gui.py                # LLM (Gemini) entegrasyonlu, Tkinter tabanlı grafiksel kullanıcı arayüzü
 ├── requirements.txt           # Proje bağımlılık ve kütüphane listesi
 └── README.md                  # Proje dokümantasyonu
-
 
 
 Kurulum ve Sistem Gereksinimleri
