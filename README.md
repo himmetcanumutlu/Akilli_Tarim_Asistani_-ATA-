@@ -42,7 +42,7 @@ Aşağıdaki doğruluk oranları modelin farklı mahsuller üzerindeki performan
 | Buğday | %92.81 |
 | Arpa | %92.59 |
 | Patates | %90.55 |
-| Şeftali | %85.58 |
+| Şeftali | %95.58 |
 
 
 
